@@ -1,0 +1,2 @@
+Warning: Task type 'com.makemake.MakeMake': property 'message' is not annotated with an input or output annotation.
+Warning: Task type 'com.makemake.MakeMake': property 'recipient' is not annotated with an input or output annotation.
